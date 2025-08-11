@@ -6,3 +6,9 @@ An interactive Streamlit web app to explore Telegram channel metadata, visualize
 
 ## 🚀 Live Demo
 🔗 [Click here to view the app](https://telegramchanneldashboard.streamlit.app)
+
+---
+## 📌 Features
+- 📈 Interactive charts using **Matplotlib**
+- 🔍 Filter and explore data dynamically
+- 🌐 Simple, clean, and responsive dashboard
