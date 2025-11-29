@@ -32,5 +32,5 @@ An interactive Streamlit web app to explore Telegram channel metadata, visualize
 <img src="screenshots/telegram.png" alt="Dashboard" height="700" width="800"/>
 
 ## 👩‍💻 Author
-SHIPALI
+SHIPALI<br>
 📧 shipalibhandary@gmail.com
