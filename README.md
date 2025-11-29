@@ -29,4 +29,4 @@ An interactive Streamlit web app to explore Telegram channel metadata, visualize
 ```
 ## 📸 Screenshot
 
-<img src="screenshots/telegram.png" alt="Dashboard" height="500" width="500"/>
+<img src="screenshots/telegram.png" alt="Dashboard" height="700" width="800"/>
