@@ -20,4 +20,11 @@ An interactive Streamlit web app to explore Telegram channel metadata, visualize
 - Matplotlib, Seaborn, for Visualizations
 
 ## 📂 Project Structure
-|-- telegram_dashboard.py
+```telegram-dashboard/
+├── telegram_dashboard.py
+├── requirements.txt
+├── small_channel_metadata.csv
+├── README.md
+└── .gitignore
+```
+
