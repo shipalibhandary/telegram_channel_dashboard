@@ -27,4 +27,5 @@ An interactive Streamlit web app to explore Telegram channel metadata, visualize
 ├── README.md
 └── .gitignore
 ```
+## 📸 Screenshot
 
